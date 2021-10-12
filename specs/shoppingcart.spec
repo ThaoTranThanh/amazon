@@ -25,9 +25,9 @@ tags: automation
 * Select "5" items at the Quantity filter
 * Click on Add To Cart button
 * Click on Cart button to show cart page
-* Verify the price of the "1st" product is "$43.50"
-* Verify the price of the "2nd" product is "$29.96"
-* Verify "Subtotal (7 items):" and price is "$277.42"
+* Verify the price of the "1st" product is "$40.65"
+* Verify the price of the "2nd" product is "$28.90"
+* Verify "Subtotal (7 items):" and price is "$261.05"
 
 ## Delete one product from cart and proceed to checkout
 * Click on delete at the "2nd" product
