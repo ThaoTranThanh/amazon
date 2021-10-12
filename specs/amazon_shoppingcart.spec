@@ -1,4 +1,4 @@
-# Automation Exercise - Make an order withour authorization
+# amazon - Make an order without authorization
 
 tags: automation
 
@@ -13,8 +13,8 @@ tags: automation
 * Select "2" items at the Quantity filter
 * Click on Add To Cart button
 * Click on Cart button
-* Verify the price of the "1st" product is "$29.96"
-* Verify "Subtotal (2 items):" and price is "$59.92"
+* Verify the price of the "1st" product is "$28.90"
+* Verify "Subtotal (2 items):" and price is "$57.80"
 
 ## Go back to the Home Page and add 2nd product into cart
 * Click on Amazon Logo on header
